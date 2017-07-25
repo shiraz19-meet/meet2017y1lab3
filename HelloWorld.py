@@ -1,0 +1,5 @@
+print("(Բարեւ աշխարհ) is how u say hello world in Armenian.")
+print("(नमस्ते दुनिया) is how you say Hello World in (hindi).")
+print("(Salamu, Dunia) is how you say Hello World in (sawali).")
+print("Olá Mundo) is how you say Hello World in (Portuguese).")
+print("(Γειά σου Κόσμε) is how you say hello world in Greek.")
